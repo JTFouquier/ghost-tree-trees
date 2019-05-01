@@ -36,7 +36,7 @@ phylogenetic trees for diversity analysis. *Microbiome*.
 (February 2016) DOI: 10.1186/s40168-016-0153-6
 
 For more information see the
-[QIIME 2 *ghost-tree* community tutorial](https://github.com/JTFouquier/q2-ghost-tree/blob/master/QIIME2_community_tutorial.md)
+[QIIME 2 *ghost-tree* community tutorial](https://forum.qiime2.org/t/q2-ghost-tree-plugin-community-tutorial-for-creating-hybrid-gene-phylogenetic-trees/6139)
 or
 [read our paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0153-6)
 in *Microbiome*.
