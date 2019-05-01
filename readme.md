@@ -14,8 +14,8 @@ Putting IDs into single quotes fixed this. ID_12345 -> 'ID_12345'.**
 **The software still needs to be fixed to handle this, but these
 pre-made trees are good to go!**
 
-In this repository, you can see folders for for ghost trees created
-using SILVA 18S foundation database and a **UNITE** ITS extensions
+In this repository, you can see multiple folders for ghost trees created
+using SILVA 18S foundation database (SILVA 132) and a **UNITE** ITS extensions
 database. The most current SILVA 18S database was used when the ghost
 trees were created.
 
@@ -50,5 +50,5 @@ Misc. links:
 [QIIME 2 docs](https://docs.qiime2.org/)
 
 
-**As always, if you have any questions, please post on the QIIME 2 forum
+**As always, if you have any questions, please post on the QIIME 2 forum section for plugins
 (preferred) or email me directly at jennietf (at) gmail if you're shy  :)**
